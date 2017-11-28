@@ -1,0 +1,36 @@
+[33mcommit b3ec14d114e5e9f1a304af3ca0a162af8e0f1680[m
+Merge: a47c1c8 6afda29
+Author: Yang Jen <150061685@cart.ads>
+Date:   Tue Nov 28 08:27:35 2017 -0800
+
+    save items
+
+[33mcommit a47c1c873d050112e41abeb1bae923cf7b7706cd[m
+Author: Yang Jen <150061685@cart.ads>
+Date:   Tue Nov 28 08:22:42 2017 -0800
+
+    tablet test run 2
+
+[33mcommit 6afda2930e99d1b4d8f36cf0344bd2b7de7b4a20[m
+Author: Yang Jen <150061685@cart.ads>
+Date:   Tue Nov 28 08:19:27 2017 -0800
+
+    tablet
+
+[33mcommit 5f024a88a1f520f86db5406e2cebe4b41afcf60e[m
+Author: Yang Jen <150061685@cart.ads>
+Date:   Tue Nov 28 08:01:26 2017 -0800
+
+    media
+
+[33mcommit 0882e96f10f0dea5986e8ee3476eecad0f9f1429[m
+Author: Yang Jen <150061685@cart.ads>
+Date:   Mon Nov 27 10:26:02 2017 -0800
+
+    media querie
+
+[33mcommit b160b8efed5497833dce30d65cda51538de57ed9[m
+Author: Yang Jen <150061685@cart.ads>
+Date:   Mon Nov 27 09:55:35 2017 -0800
+
+    initial commit
